@@ -1,0 +1,14 @@
+{
+  "name": "bootcamp-gostack-11",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/danielobara/bootcamp-gostack-11.git",
+  "author": "<daniel.tsutomu@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
