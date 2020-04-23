@@ -37,6 +37,7 @@
 </p>
 <hr>
 <br/>
+
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
