@@ -1,10 +1,11 @@
 const express = require("express");
+const cors = require("cors");
 
 const app = express();
 
 // Informando ao express que utilizaremos estrutura de dados em formato JSON
 app.use(express.json());
-
+app.use(cors());
 /**
  * Métodos HTTP:
  *

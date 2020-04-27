@@ -3,10 +3,10 @@
 </h1>
 
 <h3 align="center">
-  Introdução ao Node.js
+  Front-end com ReactJS
 </h3>
 
-<p align="center">Código do primeiro módulo do <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
+<p align="center">Código do segundo módulo do <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danielobara/">
@@ -26,6 +26,7 @@
 </p>
 
 <p align="center">
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalacao-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 	<a href="#-informações-extras">Informações extras</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -39,17 +40,24 @@
 <hr>
 <br/>
 
+## 💻 Project
+
+Projeto para criação do frontend utilizando ReactJS e consumindo a API desenvolvida anteriormente na [aula-1-conceitos-node][aula-1].
+
 ## 🚀 Instalação e execução
+⚠️ ATENÇÂO! ⚠️
+
+É necessário rodar o backend criado anteriormente 
+na [aula-1][aula-1]
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-11/nivel-1/aula-1-conceitos-node`;
+2. Entre na pasta rodando `cd bootcamp-gostack-11/nivel-1/aula-2-frontend-react`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn dev` para iniciar o servidor.
    
 ## ℹ️ Informações extras
-Adicionado a funcionalidade de filtro utilizando query.params na rota de listagem.
 
-Criado a função `searchByName()` que faz uso do [Array.prototype.find()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+Criado a função async/await `fetchAPI()` para utilizar dentro do `useEffect`
 
 ## 🤔 Como contribuir
 
@@ -67,3 +75,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE.md) p
 ---
 
 Made with ♥ by Daniel Obara :wave: [Get in touch!](https://www.linkedin.com/in/danielobara/)
+
+[aula-1]:https://github.com/DanielObara/bootcamp-gostack-11/tree/master/nivel-1/aula-1-conceitos-node
