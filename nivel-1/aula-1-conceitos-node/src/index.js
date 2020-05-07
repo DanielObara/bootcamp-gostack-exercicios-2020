@@ -90,7 +90,7 @@ app.post("/users", checkUserExists, (req, res) => {
 
   users.push(name);
 
-  return res.json(users);
+  return res.json(name);
 });
 
 app.put("/users/:index", checkUserInArray, checkUserExists, (req, res) => {
