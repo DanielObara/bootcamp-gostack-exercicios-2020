@@ -1,0 +1,39 @@
+{
+    "env": {
+        "es6": true,
+        "node": true
+    },
+    "extends": [
+        "airbnb-base"
+    ],
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+        "ecmaVersion": 11,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "@typescript-eslint"
+    ],
+    "rules": {
+      "import/extensions": [
+        //deve retornar erros
+        "error",
+        "ignorePackages",
+        //qualquer extensão que termine com ts não quero que aconteça esse erro
+        {
+          "ts": "never"
+        }
+      ]
+    },
+    "settings": {
+      "import/resolver":{
+        "typescript": {
+
+        }
+      }
+    }
+}
