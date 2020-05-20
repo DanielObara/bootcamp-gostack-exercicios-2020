@@ -10,7 +10,7 @@
 - [02 - Conceitos do ReactJS](https://github.com/DanielObara/bootcamp-gostack-11/tree/master/nivel-1/aula-2-frontend-react)🚀 Done :heavy_check_mark:
 - [03 - Conceitos do React Native](https://github.com/DanielObara/bootcamp-gostack-11/tree/master/nivel-1/aula-3-mobile-react-native)🚀 Done :heavy_check_mark:
 - [04 - Fundamentos TypeScript](https://github.com/DanielObara/bootcamp-gostack-11/tree/master/nivel-1/aula-4-conceitos-typescript) 🚀 Done :heavy_check_mark:
-- [05 - Fundamentos do Node.js]() :construction: In progress.. :construction:
+- [05 - Fundamentos do Node.js](https://github.com/DanielObara/bootcamp-gostack-11/tree/master/nivel-2/aula-5-primeiro-projeto-nodejs) 🚀 Done :heavy_check_mark:
 - [06 - Banco de dados e upload de arquivos no Node.js]() :construction: In progress.. :construction:
 - [07 - Fundamentos do ReactJS]() :construction: In progress.. :construction:
 - [08 - Fundamentos do React Native]() :construction: In progress.. :construction:
