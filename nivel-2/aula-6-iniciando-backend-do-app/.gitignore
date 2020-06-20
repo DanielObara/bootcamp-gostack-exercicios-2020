@@ -1,6 +1,10 @@
-
+.idea/
+.vscode/
 node_modules/
 .vscode/
 .env
 
-tmp/uploads/*
+
+tmp/*
+
+tmp/.gitkeep
