@@ -3,10 +3,10 @@
 </h1>
 
 <h3 align="center">
-  Mobile com React-Native
+  Conceitos TypeScript
 </h3>
 
-<p align="center">Código do terceiro módulo do <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
+<p align="center">Código do quarto módulo do <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danielobara/">
