@@ -14,6 +14,10 @@
 - [06 - Banco de dados e upload de arquivos no Node.js](https://github.com/DanielObara/bootcamp-gostack-11/tree/master/nivel-2/aula-6-iniciando-backend-do-app) 🚀 Done :heavy_check_mark:
 - [07 - Fundamentos do ReactJS]() :construction: In progress.. :construction:
 - [08 - Fundamentos do React Native]() :construction: In progress.. :construction:
+- [09 - Relacionamentos com banco de dados no Node.js]() :construction: In progress.. :construction:
+- [10 - CRUD no ReactJS]() :construction: In progress.. :construction:
+- [11 - Navegação e filtros no React Native]() :construction: In progress.. :construction:
+
 
 ## :memo: Licença
 
