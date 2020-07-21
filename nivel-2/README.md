@@ -5,10 +5,8 @@
 
 ## Índice das aulas do NIVEL 2
 
-- [01 - Conceitos do Node.js](https://github.com/DanielObara/bootcamp-gostack-exercicios/tree/master/nivel-1/aula-1-conceitos-node) 🚀 Done :heavy_check_mark:
-- [02 - Conceitos do ReactJS](https://github.com/DanielObara/bootcamp-gostack-exercicios/tree/master/nivel-1/aula-2-frontend-react)🚀 Done :heavy_check_mark:
-- [03 - Conceitos do React Native](https://github.com/DanielObara/bootcamp-gostack-exercicios/tree/master/nivel-1/aula-3-mobile-react-native) 🚀 Done :heavy_check_mark:
-- [04 - Conceitos do TypeScript](https://github.com/DanielObara/bootcamp-gostack-exercicios/tree/master/nivel-1/aula-4-conceitos-typescript) 🚀 Done :heavy_check_mark:
+- [05 - Fundamentos do Node.js](https://github.com/DanielObara/bootcamp-gostack-exercicios/tree/master/nivel-2/aula-5-primeiro-projeto-nodejs) 🚀 Done :heavy_check_mark:
+- [06 - Banco de dados e upload de arquivos no Node.js](https://github.com/DanielObara/bootcamp-gostack-exercicios/tree/master/nivel-2/aula-6-iniciando-backend-do-app) 🚀 Done :heavy_check_mark:
 
 ## :memo: Licença
 
