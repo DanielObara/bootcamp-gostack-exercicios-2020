@@ -13,14 +13,14 @@
     <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
   </a>
   
-  <a href="https://github.com/DanielObara/bootcamp-gostack-11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielobara/bootcamp-gostack-11.svg">
+  <a href="https://github.com/DanielObara/bootcamp-gostack-exercicios/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielobara/bootcamp-gostack-exercicios.svg">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">	
   
-  <a href="https://github.com/danielobara/bootcamp-gostack-11/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/danielobara/bootcamp-gostack-11?style=social">
+  <a href="https://github.com/danielobara/bootcamp-gostack-exercicios/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/danielobara/bootcamp-gostack-exercicios?style=social">
   </a>
 	
 </p>
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-	<a href="https://insomnia.rest/run/?label=Aula%201%20-%20Conceitos%20Node&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2Fbootcamp-gostack-11%2Fmaster%2Fnivel-1%2Faula-1-conceitos-node%2FInsomnia%2520Export.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia">
+	<a href="https://insomnia.rest/run/?label=Aula%201%20-%20Conceitos%20Node&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2Fbootcamp-gostack-exercicios%2Fmaster%2Fnivel-1%2Faula-1-conceitos-node%2FInsomnia%2520Export.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia">
 	</a>
 </p>
 <hr>
@@ -51,7 +51,7 @@ Projeto para criação do frontend utilizando ReactJS e consumindo a API desenvo
 na [aula-1][aula-1]
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-11/nivel-1/aula-2-frontend-react`;
+2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-1/aula-2-frontend-react`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn dev` para iniciar o servidor.
    
@@ -76,4 +76,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE.md) p
 
 Made with ♥ by Daniel Obara :wave: [Get in touch!](https://www.linkedin.com/in/danielobara/)
 
-[aula-1]:https://github.com/DanielObara/bootcamp-gostack-11/tree/master/nivel-1/aula-1-conceitos-node
+[aula-1]:https://github.com/DanielObara/bootcamp-gostack-exercicios/tree/master/nivel-1/aula-1-conceitos-node

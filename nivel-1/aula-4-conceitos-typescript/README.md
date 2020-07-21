@@ -13,14 +13,14 @@
     <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
   </a>
   
-  <a href="https://github.com/DanielObara/bootcamp-gostack-11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielobara/bootcamp-gostack-11.svg">
+  <a href="https://github.com/DanielObara/bootcamp-gostack-exercicios/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielobara/bootcamp-gostack-exercicios.svg">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">	
   
-  <a href="https://github.com/danielobara/bootcamp-gostack-11/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/danielobara/bootcamp-gostack-11?style=social">
+  <a href="https://github.com/danielobara/bootcamp-gostack-exercicios/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/danielobara/bootcamp-gostack-exercicios?style=social">
   </a>
 	
 </p>
@@ -42,7 +42,7 @@ Projeto de introdução ao TypeScript.
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-11/nivel-1/aula-4-conceitos-typescript`;
+2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-1/aula-4-conceitos-typescript`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn tsc` para transpilar de TS para JS;
 5. Rode `node dist/index.js`;
@@ -51,7 +51,7 @@ Projeto de introdução ao TypeScript.
 
 Caso necessário será possível utilizar o arquivo tsconfig.json para maiores configurações do TypeScript.
 Caso queira modificar o código e efetuar o build novamente, execute:`yarn tsc`;
-Todo código transpilado de TS para JS ficará dentro de dist conforme a configuração que fizemos em `outDir` dentro de [tsConfig.js](https://github.com/DanielObara/bootcamp-gostack-11/blob/master/nivel-1/aula-4-conceitos-typescript/tsconfig.json).
+Todo código transpilado de TS para JS ficará dentro de dist conforme a configuração que fizemos em `outDir` dentro de [tsConfig.js](https://github.com/DanielObara/bootcamp-gostack-exercicios/blob/master/nivel-1/aula-4-conceitos-typescript/tsconfig.json).
 
 
 ## 🤔 Como contribuir

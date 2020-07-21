@@ -14,7 +14,7 @@ Platform:
   linux x64
 
 Trace: 
-  SyntaxError: /home/daniel/GitHubProjects/bootcamp-gostack-11/nivel-1/aula-2-frontend-react/package.json: Unexpected token } in JSON at position 223
+  SyntaxError: /home/daniel/GitHubProjects/bootcamp-gostack-exercicios/nivel-1/aula-2-frontend-react/package.json: Unexpected token } in JSON at position 223
       at JSON.parse (<anonymous>)
       at /usr/share/yarn/lib/cli.js:1625:59
       at Generator.next (<anonymous>)

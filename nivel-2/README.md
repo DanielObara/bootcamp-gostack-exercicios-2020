@@ -3,7 +3,7 @@
   Exercícios das aulas Bootcamp GoStack 🚀
 </h2>
 
-## Índice das aulas do NIVEL 1
+## Índice das aulas do NIVEL 2
 
 - [01 - Conceitos do Node.js](https://github.com/DanielObara/bootcamp-gostack-exercicios/tree/master/nivel-1/aula-1-conceitos-node) 🚀 Done :heavy_check_mark:
 - [02 - Conceitos do ReactJS](https://github.com/DanielObara/bootcamp-gostack-exercicios/tree/master/nivel-1/aula-2-frontend-react)🚀 Done :heavy_check_mark:

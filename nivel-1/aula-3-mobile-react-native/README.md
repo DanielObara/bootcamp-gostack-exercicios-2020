@@ -13,14 +13,14 @@
     <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
   </a>
   
-  <a href="https://github.com/DanielObara/bootcamp-gostack-11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielobara/bootcamp-gostack-11.svg">
+  <a href="https://github.com/DanielObara/bootcamp-gostack-exercicios/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielobara/bootcamp-gostack-exercicios.svg">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">	
   
-  <a href="https://github.com/danielobara/bootcamp-gostack-11/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/danielobara/bootcamp-gostack-11?style=social">
+  <a href="https://github.com/danielobara/bootcamp-gostack-exercicios/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/danielobara/bootcamp-gostack-exercicios?style=social">
   </a>
 	
 </p>
@@ -48,7 +48,7 @@ Para mais informações acesse: [Configuração de ambiente]
 Utilize os comandos do react-native-cli via npx em vez de uma instalação global para evitar possíveis erros.
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-11/nivel-1/aula-3-mobile-react-native`;
+2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-1/aula-3-mobile-react-native`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `npx react-native run-android` ou `yarn android` para buildar.
 5. Rode `npx react-native start` ou `yarn start` para startar.

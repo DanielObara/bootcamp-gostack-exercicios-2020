@@ -1,8 +1,8 @@
 {
-  "name": "bootcamp-gostack-11",
+  "name": "aula-1-conceitos-node",
   "version": "1.0.0",
   "main": "src/index.js",
-  "repository": "https://github.com/danielobara/bootcamp-gostack-11.git",
+  "repository": "https://github.com/danielobara/bootcamp-gostack-exercicios.git",
   "author": "<daniel.tsutomu@hotmail.com>",
   "license": "MIT",
   "scripts": {
