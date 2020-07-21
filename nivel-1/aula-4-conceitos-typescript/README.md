@@ -44,11 +44,15 @@ Projeto de introdução ao TypeScript.
 1. Faça um clone desse repositório;
 2. Entre na pasta rodando `cd bootcamp-gostack-11/nivel-1/aula-4-conceitos-typescript`;
 3. Rode `yarn` para instalar as dependências;
-4. Rode `yarn` para iniciar o servidor
+4. Rode `yarn tsc` para transpilar de TS para JS;
+5. Rode `node dist/index.js`;
 
 ## ℹ️ Informações extras
 
 Caso necessário será possível utilizar o arquivo tsconfig.json para maiores configurações do TypeScript.
+Caso queira modificar o código e efetuar o build novamente, execute:`yarn tsc`;
+Todo código transpilado de TS para JS ficará dentro de dist conforme a configuração que fizemos em `outDir` dentro de [tsConfig.js](https://github.com/DanielObara/bootcamp-gostack-11/blob/master/nivel-1/aula-4-conceitos-typescript/tsconfig.json).
+
 
 ## 🤔 Como contribuir
 
