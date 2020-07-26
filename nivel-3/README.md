@@ -3,10 +3,11 @@
   Exercícios das aulas Bootcamp GoStack 🚀
 </h2>
 
-## Índice das aulas do NIVEL 2
+## Índice das aulas do NIVEL 3
 
-- [05 - Primeiro projeto com Node.js](https://github.com/DanielObara/bootcamp-gostack-exercicios/tree/master/nivel-2/aula-5-primeiro-projeto-nodejs) 🚀 Done :heavy_check_mark:
-- [06 - Iniciando Back-end do app](https://github.com/DanielObara/bootcamp-gostack-exercicios/tree/master/nivel-2/aula-6-iniciando-backend-do-app) 🚀 Done :heavy_check_mark:
+- [07 - Primeiro projeto com React](https://github.com/DanielObara/bootcamp-gostack-exercicios/tree/master/nivel-3/aula-7-primeiro-projeto-react) :construction: In progress.. :construction:
+- [08 - Iniciando Front-end Web]() :construction: In progress.. :construction:
+- [09 - Iniciando Aplicativo Mobile]() :construction: In progress.. :construction:
 
 ## :memo: Licença
 
