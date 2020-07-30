@@ -32,10 +32,10 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 	<a href="https://insomnia.rest/run/?label=Aula%201%20-%20Conceitos%20Node&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2Fbootcamp-gostack-exercicios%2Fmaster%2Fnivel-1%2Faula-1-conceitos-node%2FInsomnia%2520Export.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia">
 	</a>
-</p>
+</p> -->
 <hr>
 <br/>
 
