@@ -32,14 +32,6 @@ export default createGlobalStyle`
     font-weight: 500;
   }
 
-  input:-webkit-autofill,
-  input:-webkit-autofill:hover,
-  input:-webkit-autofill:focus,
-  input:-webkit-autofill:active  {
-    -webkit-box-shadow: 0 0 0px 1000px #232129 inset;
-    -webkit-transition: "color 9999s ease-out, background-color 9999s ease-out";
-    -webkit-transition-delay: 9999s;
-  }
   a {
     text-decoration: none;
   }
@@ -48,12 +40,6 @@ export default createGlobalStyle`
   }
   button {
     cursor: pointer;
-  }
-
-  #root{
-    max-width: 860px;
-    margin: 0 auto;
-    padding: 40px 20px;
   }
 
 `;
